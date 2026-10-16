@@ -1,0 +1,8 @@
+{
+  "name": "morning-intelligence-2-0",
+  "description": "AI-powered technology news intelligence application with Telegram bot and daily briefings.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
